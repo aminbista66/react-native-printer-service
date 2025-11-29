@@ -40,8 +40,15 @@
   },
   "keywords": [
     "react-native",
-    "ios",
-    "android"
+    "android",
+    "printer",
+    "thermal-printer",
+    "escpos",
+    "bluetooth-printer",
+    "tcp-printer",
+    "usb-printer",
+    "pos-printer",
+    "receipt-printer"
   ],
   "repository": {
     "type": "git",
